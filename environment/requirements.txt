@@ -1,0 +1,10 @@
+numpy
+pandas
+scipy
+matplotlib
+rdkit
+meeko==0.8.0
+mdtraj==1.11.2
+MDAnalysis==2.11.0
+openmm==8.6.1
+openmmforcefields==0.15.1

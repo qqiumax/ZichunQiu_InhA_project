@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the manuscript below."
+title: "Calibrated computational triage of approved drugs against Mycobacterium tuberculosis InhA: docking, dynamics, and the limits of binding inference"
+authors:
+  - family-names: Qiu
+    given-names: Zichun
+    affiliation: "Shanghai Starriver Bilingual School"
+    orcid: "https://orcid.org/0009-0006-9571-9641"
+year: 2026
+type: article
+keywords:
+  - InhA
+  - tuberculosis
+  - drug repurposing
+  - molecular docking
+  - molecular dynamics
+  - MM/GBSA
+identifiers:
+  - type: url
+    value: "https://github.com/qqiumax/ZichunQiu_InhA_project"

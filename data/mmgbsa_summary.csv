@@ -1,0 +1,5 @@
+system,class,mw,dg_mmgbsa,ie,eff_dg,n_frames,window,status
+entrectinib,lead,560.65,-50.4,6.92,-43.48,76,5-20 ns,full
+decoy,challenging negative,526.0,-26.37,8.65,-17.73,75,5-20 ns,full
+metformin,trivial negative,129.17,-14.11,5.78,-8.33,75,5-20 ns,full
+GSK625,orthogonal positive (2 nM),417.9,-44.82,11.69,-33.13,74,5-20 ns,orthogonal

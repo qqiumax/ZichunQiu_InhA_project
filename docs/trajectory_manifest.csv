@@ -1,0 +1,9 @@
+system,frames,length_ns,bytes,role,path_on_original_machine
+entrectinib_4DRE,1972,197.2,893571976,lead WT, D:\scratch\protein-drug\md\entrectinib_4DRE\traj.dcd
+entrectinib_4DTI,2000,200.0,806704276,lead S94A, D:\scratch\protein-drug\md\entrectinib_4DTI\traj.dcd
+prednisolone_tebutate_4DTI,200,20.0,80668276,A-tier S94A, D:\scratch\protein-drug\md\prednisolone_tebutate_4DTI\traj.dcd
+GSK625_5JFO,200,20.0,86819996,orthogonal positive, D:\scratch\protein-drug\md\GSK625_5JFO\traj.dcd
+decoyPQDR_4DRE,200,20.0,90702676,challenging negative, D:\scratch\protein-drug\md\decoyPQDR_4DRE\traj.dcd
+metformin_4DRE,200,20.0,90570676,trivial negative, D:\scratch\protein-drug\md\metformin_4DRE\traj.dcd
+ligand566_4DRE,200,20.0,90683476,weak exploratory control, D:\scratch\protein-drug\md\ligand566_4DRE\traj.dcd
+entrectinib_4DRE_prefix,28,2.8,12681476,reconstructed prefix (QC only), D:\scratch\protein-drug\md\entrectinib_4DRE_prefix\traj.dcd

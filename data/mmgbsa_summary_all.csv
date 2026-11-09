@@ -1,0 +1,8 @@
+system,class,mw,dg_mmgbsa,ie,eff_dg,n_frames,receptor,role
+entrectinib,lead (4DRE),560.65,-50.4,6.92,-43.48,76,4DRE,main
+entrectinib_4DTI,lead (4DTI),560.65,-45.31,10.8,-34.52,76,4DTI,main
+prednisolone_4DTI,A-tier (4DTI),458.6,-36.28,8.06,-28.22,75,4DTI,main
+GSK625,orthogonal (5JFO),417.9,-44.82,11.69,-33.13,74,5JFO,main
+decoy,challenging negative,526.0,-26.37,8.65,-17.73,75,4DRE,main
+metformin,trivial negative,129.17,-14.11,5.78,-8.33,75,4DRE,main
+566,weak positive (supp),286.17,-35.81,22.72,-13.09,75,4DRE,supplementary

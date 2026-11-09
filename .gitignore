@@ -1,0 +1,10 @@
+# Do not commit raw MD trajectories or checkpoints
+*.dcd
+*.chk
+*.pdb
+!structures/*.pdb
+*.pse
+*.log
+__pycache__/
+*.pyc
+.DS_Store
